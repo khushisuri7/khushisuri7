@@ -14,4 +14,4 @@ My name is Khushi Suri and I am a software developer.
 
 ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushisuri7&show_icons=true&theme=radical)
 
-[![@khushisuri7's Holopin board](https://holopin.io/api/user/board?user=khushisuri7)](https://holopin.io/@khushisuri7)
+
